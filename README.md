@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Afolabi Oluwafunmise - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,25 +14,21 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Bank Churn Analysis
+Exploratory analysis of bank customer churn using demographic and account data, identifying key drivers of attrition and delivering actionable retention insights through visualisations and statistical patterns.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Financial Statement Analysis
+Financial statements analysis of a multi year dataset(2009-Q1,2024), covering revenue trends, profitability margins, cashflow health, and balance sheet structure with data-driven conclusions and strategic recommendations.
 
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+- **Data Visualization**: Power BI, Tableau.
+- **Data Analysis**: SQL, Python, Excel.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Financial Skills**: Financial Modelling, Financial Reporting, Financial Statement Analysis, Variance Analysis
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
-
+  
 ## 💡 How to Use This Template
 
 Creating your own portfolio from this template is a simple, four-step process.
